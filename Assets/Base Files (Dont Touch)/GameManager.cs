@@ -75,7 +75,7 @@ public class GameManager : MonoBehaviour
     private GameInfo GetNextGame()
     {
         GameInfo game = new GameInfo();
-        game.id = Random.Range(0, remainingGames.Count-1);
+        game.id = Random.Range(0, remainingGames.Count);
         game.name = remainingGames[game.id];
         game.id += indexOffset;
         //remainingGames.Remove(game);

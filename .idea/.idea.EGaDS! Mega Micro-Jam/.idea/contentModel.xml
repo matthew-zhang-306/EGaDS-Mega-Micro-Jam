@@ -20,6 +20,11 @@
         <e p="MyTeam" t="Include">
           <e p="ExampleGameScript.cs" t="Include" />
         </e>
+        <e p="Noah! (Test)" t="Include">
+          <e p="Noah_Avoider.cs" t="Include" />
+          <e p="Noah_ThingSpawner.cs" t="Include" />
+          <e p="Noah_ThingToAvoid.cs" t="Include" />
+        </e>
         <e p="README.txt" t="Include" />
       </e>
       <e p="EGaDS! Mega Micro-Jam.sln" t="IncludeFlat" />
