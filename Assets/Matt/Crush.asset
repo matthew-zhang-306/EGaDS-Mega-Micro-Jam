@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 10b6289b71b71e942a2499ed4eb71c02, type: 3}
-  m_Name: Minigame
+  m_Name: Crush
   m_EditorClassIdentifier: 
   gameTime: 0
   music: {fileID: 8300000, guid: 1f9d26546e4c71e40868a9aa86610c2e, type: 3}
