@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 10b6289b71b71e942a2499ed4eb71c02, type: 3}
-  m_Name: Minigame
+  m_Name: Noah_Minigame
   m_EditorClassIdentifier: 
   gameTime: 0
   music: {fileID: 8300000, guid: e426c4c835a9c8741a9876f9781fabd7, type: 3}

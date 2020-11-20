@@ -226,7 +226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   impactText: {fileID: 1663757031}
   remainingLives: 0
-  numberOfGames: 2
+  numberOfGames: 1
   startWaitTime: 3
   indexOffset: 3
 --- !u!4 &416185704
